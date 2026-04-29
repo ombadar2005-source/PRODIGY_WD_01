@@ -1,8 +1,4 @@
-Here is the full CSS updated for a clean **Green and White (Light)** theme. 
 
-I kept all the class names and structures completely intact, and simply updated the colors. All dark slate backgrounds (`#020617`) were converted to white (`#ffffff`) or light grays (`#f8fafc`), text colors were inverted for readability on light backgrounds, and the neon accents were aligned properly for a bright, fresh green aesthetic.
-
-```css
 :root {
     --bg: #ffffff;
     --accent: #22c55e;
